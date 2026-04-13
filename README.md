@@ -37,8 +37,8 @@ No tiene ninguna optimización para entradas parcialmente ordenadas: siempre rea
 | Peor | O(n²) |
 | Espacio | O(1) |
 
-- **Estable:**  No — el swap puede saltar sobre elementos iguales
-- **Ventaja práctica:** realiza solo `n-1` intercambios, útil cuando mover datos es costoso
+- **Estable:**  No — el swap puede saltar sobre elementos iguales.
+- **Ventaja práctica:** realiza solo `n-1` intercambios, útil cuando mover datos es costoso.
 
 ---
 
